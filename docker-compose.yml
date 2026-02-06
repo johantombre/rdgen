@@ -13,5 +13,3 @@ services:
       GHBRANCH: ${GHBRANCH}
       PROTOCOL: ${PROTOCOL}
       REPONAME: ${REPONAME}
-    dns:
-      - 8.8.8.8
